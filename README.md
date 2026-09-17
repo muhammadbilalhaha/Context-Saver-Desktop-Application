@@ -81,19 +81,4 @@ Context Saver is a blazing-fast desktop application that captures your entire wo
 - Rust 1.70+
 - Platform-specific build tools
 
-### Development Setup
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/context-saver.git
-cd context-saver
-
-# Install dependencies
-npm install
-
-# Run in development mode
-npm run tauri dev
-
-# Build for production
-npm run tauri build
-
 Made by Muhammad Bilal ❤
